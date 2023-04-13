@@ -1,0 +1,12 @@
+Folder Names
+
+[a-z]*
+
+Text Filenames
+
+[a-z]*.txt
+[a-z]*
+
+Text File Contents
+
+([A-Z][a-z][0-9][{' ','(',')','-','_','{','}','[',']','\',':',';',',','.','/','?'}])*
